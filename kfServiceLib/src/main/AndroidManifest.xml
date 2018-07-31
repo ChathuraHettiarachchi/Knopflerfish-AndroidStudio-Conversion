@@ -1,0 +1,15 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.knopflerfish.android.service">
+
+    <application>
+
+        <service
+            android:name="org.knopflerfish.android.service.Knopflerfish"
+            android:enabled="true"
+            android:exported="true" >
+        </service>
+    </application>
+
+
+
+</manifest>
